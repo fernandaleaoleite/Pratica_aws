@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "praticafernandaLeaoAWS",
+			"path": "../../../OneDrive - Instituto Germinare/Tech/DevOps/praticafernandaLeaoAWS"
+		},
+		{
+			"name": "restoran-1.0.0",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "praticafernandaLeaoAWS"
+	}
+}
